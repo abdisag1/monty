@@ -11,5 +11,6 @@ Brainfuck is an esoteric programming language created in 1993 by Urban Müller. 
 
 ## **contributers to this repo**
 
-Abdisa Gemechu [enter link description here](https://github.com/abdisag1)
-Abrham Bunaro[enter link description here](https://github.com/Abrish-b)
+Abdisa Gemechu  [Github Account](https://github.com/abdisag1)
+
+Abrham Bunaro [Github Account](https://github.com/Abrish-b)
